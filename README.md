@@ -1,3 +1,5 @@
+# Nyan Linux By Maririn312　(天音海)
+
 <a href="https://discord.gg/shiba">
   <img src="https://pbs.twimg.com/profile_banners/1095708486506168320/1672305207/1500x500" width="100%" height="auto"/>
 </a>
@@ -11,14 +13,12 @@
 </p>
 <br/>
 
-# Nyan Linux By Maririn312　(天音海)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=💞👠⚜️あら%2C+雷が怖いのですか?;この世で唯一無二の高貴なる者であり,;最も恐ろしい雷霆の化身が、;あなたのそばにいるというのに。;💞👠⚜️;">
 
 <h1 align="center">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maririn312&bg_color=dracula&color=b346c4&line=b346c4&point=ffffff&area=true&hide_border=true)  </p>
-
 
 <img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=maririn312&cc=141321&tc=FF1493&ic=9c6bff&bc=ffffff"/>
 
