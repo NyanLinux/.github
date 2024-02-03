@@ -2,8 +2,8 @@
   <img src="https://pbs.twimg.com/profile_banners/1095708486506168320/1672305207/1500x500" width="100%" height="auto"/>
 </a>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCCRv0-qH90y_BjYFFFvMwPQ"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- <a href="https://www.youtube.com/channel/UCCRv0-qH90y_BjYFFFvMwPQ"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://twitter.com/mior1n312"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/channels/896373208670933053/896373209585319947" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
@@ -11,7 +11,7 @@
 </p>
 <br/>
 
-# Nyan Linux
+# Nyan Linux By Maririn312　(天音海)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=💞👠⚜️あら%2C+雷が怖いのですか?;この世で唯一無二の高貴なる者であり,;最も恐ろしい雷霆の化身が、;あなたのそばにいるというのに。;💞👠⚜️;">
 
